@@ -43,3 +43,24 @@
 ```
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 ```			
+#owlcarouse 10-3-19
+**css**
+
+```
+https://azim-munna.github.io/CDN/assest/css/owl.carousel.min.css
+```
+**js**
+
+```
+https://azim-munna.github.io/CDN/assest/js/owl.carousel.min.js
+```
+#magnatic popup cdn 10-3-19
+
+**css**
+```
+https://azim-munna.github.io/CDN/assest/css/magnific-popup.css
+```
+**js**
+```
+https://azim-munna.github.io/CDN/assest/js/jquery.magnific-popup.min.js
+```
