@@ -19,7 +19,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 ```
 
-#js plugin
+# js plugin
 
 #AOS - animations
 
@@ -32,7 +32,7 @@
 ```
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 ```
-#slick slider
+# slick slider
 
 **CSS**
 ```
@@ -43,18 +43,18 @@
 ```
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 ```			
-#owlcarouse 10-3-19
-**css**
+# owlcarouse 10-3-19
 
+**css**
 ```
 https://azim-munna.github.io/CDN/assest/css/owl.carousel.min.css
 ```
 **js**
-
 ```
 https://azim-munna.github.io/CDN/assest/js/owl.carousel.min.js
 ```
-#magnatic popup cdn 10-3-19
+
+# magnatic popup cdn 10-3-19
 
 **css**
 ```
