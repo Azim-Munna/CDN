@@ -16,7 +16,7 @@
         nav: true,
         dots: true,
 //         smartSpeed: 4000,
-        navText: ['<i class="fa fa-arrow-left"></i>', '<i class="fa fa-arrow-right"></i>'],
+        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
         responsive: {
             0: {
                 items: 1,
