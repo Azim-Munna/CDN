@@ -11,11 +11,11 @@
         loop: true,
         autoplay: true,
         margin: 20,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 4000,
         nav: true,
         dots: true,
-        smartSpeed: 2000,
-        navText: ['<i class="fas fa-arrow-left"></i>', '<i class="fas fa-arrow-right"></i>'],
+        smartSpeed: 4000,
+        navText: ['<i class="fa fa-arrow-left"></i>', '<i class="fa fa-arrow-right"></i>'],
         responsive: {
             0: {
                 items: 1,
