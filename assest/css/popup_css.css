@@ -1,0 +1,124 @@
+/*...........................................
+az 17-3-9 start
+.......................................*/
+.click_popup_btn {
+    font-size: 40px;
+    border: 1px solid #6ec1e4;
+    background: transparent;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 3px;
+    padding-right: 30px;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+    color: #6ec1e4;
+    font-weight: 700;
+}
+
+
+
+.ic_bt {
+    position: relative;
+    right: 0;
+}
+
+.click_popup_btn:hover {
+    background: #000;
+    border-color: #000;
+    color: #fff;
+}
+
+.common_content_btn {
+    width: 400px;
+    display: block;
+    padding: 20px 40px;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    transition: 0.3s ease-in;
+    background: #c0504d;
+    color: #fff;
+    font-weight: 500;
+    box-shadow: 0px 0px 10px 0px #9bbb59;
+}
+
+.popup_content_area {
+    margin-top: 30px;
+    text-align: center;
+    position: fixed;
+    width: 600px;
+    z-index: 99999999999999999999999999999;
+    background: #939292d4;
+    top: 10%;
+    left: 28%;
+    display: none;
+}
+
+.popup_btn_area {
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ic_bt_cr {
+    position: absolute;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background: #fff;
+    line-height: 40px;
+    cursor: pointer;
+    font-size: 20px;
+    color: #000;
+    transition: 0.3s ease-in;
+    z-index: 99;
+}
+
+.ic_bt_cr:hover {
+    background: #000;
+    color: #fff;
+}
+
+.sky_btn {
+    background: #4bacc6;
+    color: #fff;
+}
+
+.common_content_btn:hover {
+    opacity: 0.8;
+    color: #fff;
+}
+
+.blue_btn {
+    background: #9bbb59;
+}
+
+.green_btn {
+    background: #8064a2;
+}
+@media all and (max-width: 767px){
+    .click_popup_btn {
+    font-size: 17px;
+}
+
+.popup_content_area {
+    left: 0;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.common_content_btn {
+    width: 70%;
+    font-size: 17px;
+}
+
+.popup_btn_area {
+    padding-top: 80px;
+}
+}
+/*...........................................
+az 17-3-9 end
+.......................................*/
