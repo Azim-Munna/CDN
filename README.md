@@ -64,3 +64,13 @@ https://azim-munna.github.io/CDN/assest/css/magnific-popup.css
 ```
 https://azim-munna.github.io/CDN/assest/js/jquery.magnific-popup.min.js
 ```
+** wp_enqueue_scripts**
+```
+add_action('wp_enqueue_scripts','jn_cus_c_j');
+function jn_cus_c_j(){
+	// jn_res_css
+wp_enqueue_style('jn_cus_res_css',get_template_directory_uri().'/css/jn_res_css.css')
+// jn_js
+wp_enqueue_script( 'nav-script', get_template_directory_uri() . '/assest/js/jquery.nav.js', array('jquery'), '', true );
+}
+```
